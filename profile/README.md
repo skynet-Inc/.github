@@ -1,4 +1,8 @@
-## Hi there 👋
+
+#  Hello there!
+We're skynet, responsible AI with no intent of world domination (for now).
+
+
 
 <!--
 
@@ -10,3 +14,27 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+## ❓ OwO, what's this?
+skynet Inc is a techn organisation that bases its projects around real life applications of AI-ML/expert systems and other cool technologies related to funny math.
+Yes, our name is from the Terminator franchise, no, we won't take over the world (for now).
+
+## 🖥️ Our projects and products
+Our products are based on building applications that use Machine Learning concepts like Computer Vision, OCR, and NLP, etc to build useful Desktop/Web/Mobile applications.
+Our projects are mostly open sourced technologies and packages/methods/algorithms we used to build these applications.
+
+## 🎯 Goals
+1. To provide simple APIs for developers to integrate our tech into their applications.
+2. To make AI/Machine Learning based applications accessible to everyone
+3. ~~Taking over the world.~~
+
+## ⚗️ Projects
+1. [Discord Lite](https://github.com/skynet-Inc/Discord-Lite)
+
+## 💼 Porducts
+Coming soon...
+
+## Contact us
+1. Mail: quantechlxxi.corp@gmail.com
+2. [Discord server](https://discord.gg/JDNAFMkpQN)
+
