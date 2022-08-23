@@ -39,7 +39,5 @@ Coming soon...
 2. [Discord server](https://discord.gg/JDNAFMkpQN)
 
 
-<p align="center">
-  <img src="[http://some_place.com/image.png](https://cdn.discordapp.com/attachments/1008924144043298816/1011514486512947220/skynet_Inc-logos_white.png)" />
-</p>
+![Logo](https://cdn.discordapp.com/attachments/1008924144043298816/1011514486512947220/skynet_Inc-logos_white.png)
 
