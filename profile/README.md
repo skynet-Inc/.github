@@ -38,3 +38,11 @@ Coming soon...
 1. Mail: quantechlxxi.corp@gmail.com
 2. [Discord server](https://discord.gg/JDNAFMkpQN)
 
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 30%;"
+    src="https://cdn.discordapp.com/attachments/1008924144043298816/1011514486512947220/skynet_Inc-logos_white.png" 
+    alt="Our logo">
+</img>
