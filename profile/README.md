@@ -39,5 +39,5 @@ Coming soon...
 2. [Discord server](https://discord.gg/JDNAFMkpQN)
 
 
-![Logo](https://cdn.discordapp.com/attachments/1008924144043298816/1011514486512947220/skynet_Inc-logos_white.png)
+![Logo]([https://cdn.discordapp.com/attachments/1008924144043298816/1011514486512947220/skynet_Inc-logos_white.png](https://raw.githubusercontent.com/skynet-Inc/image-assets/main/skynet%20Inc-logos_white.png?token=GHSAT0AAAAAABUO5OS32LQSRP7OPQSG4JKUYYENVEQ))
 
