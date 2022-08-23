@@ -1,6 +1,6 @@
 
 #  Hello there!
-We're skynet, responsible AI with no intent of world domination (for now).
+We're SkyNet, responsible AI with no intent of world domination (for now).
 
 
 
@@ -16,12 +16,12 @@ We're skynet, responsible AI with no intent of world domination (for now).
 -->
 
 ## ❓ OwO, what's this?
-skynet Inc is a techn organisation that bases its projects around real life applications of AI-ML/expert systems and other cool technologies related to funny math.
+SkyNet Inc is a tech organization that bases it's projects around real life applications of AI-ML/expert systems and other cool things related to cool math.
 Yes, our name is from the Terminator franchise, no, we won't take over the world (for now).
 
 ## 🖥️ Our projects and products
 Our products are based on building applications that use Machine Learning concepts like Computer Vision, OCR, and NLP, etc to build useful Desktop/Web/Mobile applications.
-Our projects are mostly open sourced technologies and packages/methods/algorithms we used to build these applications.
+Our projects are mostly open sourced projects and packages/methods/algorithms we used to build these applications.
 
 ## 🎯 Goals
 1. To provide simple APIs for developers to integrate our tech into their applications.
@@ -31,7 +31,7 @@ Our projects are mostly open sourced technologies and packages/methods/algorithm
 ## ⚗️ Projects
 1. [Discord Lite](https://github.com/skynet-Inc/Discord-Lite)
 
-## 💼 Porducts
+## 💼 Products
 Coming soon...
 
 ## Contact us
