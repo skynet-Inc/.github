@@ -25,8 +25,9 @@ Our projects are mostly open sourced technologies and packages/methods/algorithm
 
 ## 🎯 Goals
 1. To provide simple APIs for developers to integrate our tech into their applications.
-2. To make AI/Machine Learning based applications accessible to everyone
-3. ~~Taking over the world.~~
+2. To make AI/Machine Learning based applications accessible to everyone.
+3. To make computers cool again.
+4. ~~To take over the world.~~
 
 ## ⚗️ Projects
 1. [Discord Lite](https://github.com/skynet-Inc/Discord-Lite)
