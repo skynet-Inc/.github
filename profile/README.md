@@ -33,7 +33,7 @@ Our projects are mostly open sourced technologies and packages/methods/algorithm
 1. [Discord Lite](https://github.com/skynet-Inc/Discord-Lite)
 
 ## 💼 Products
-Coming soon...
+1. skynet OCR
 
 ## Contact us
 1. Mail: quantechlxxi.corp@gmail.com
